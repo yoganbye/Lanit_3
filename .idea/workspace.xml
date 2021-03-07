@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8250652e-3ae1-4257-b504-3ad94182a24e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aviary/Aviary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aviary/Aviary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Carnivorous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Carnivorous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Crocodile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Herbivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animals/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Wolf.java" afterDir="false" />
-    </list>
+    <list default="true" id="8250652e-3ae1-4257-b504-3ad94182a24e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
