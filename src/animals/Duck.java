@@ -1,9 +1,18 @@
 package animals;
 
+import Aviary.AviarySize;
 import Except.WrongFoodException;
 import food.Food;
 
 public class Duck extends Herbivore implements Fly, Swim, Voice, Run {
+
+    public Duck() {
+        super();
+    }
+
+    public Duck(AviarySize inAviaries) {
+        this.inAviaries = inAviaries;
+    }
 
     @Override
     public String toString(){
@@ -40,5 +49,10 @@ public class Duck extends Herbivore implements Fly, Swim, Voice, Run {
 
     }
 
-    
+    @Override
+    public String getIdNumber() {
+        return idNumber;
+    }
+
+
 }

@@ -1,9 +1,18 @@
 package animals;
 
+import Aviary.AviarySize;
 import Except.WrongFoodException;
 import food.Food;
 
 public class Rabbit extends Herbivore implements Voice, Run {
+
+    public Rabbit() {
+        super();
+    }
+
+    public Rabbit(AviarySize inAviaries) {
+        this.inAviaries = inAviaries;
+    }
 
     @Override
     public String toString(){
@@ -26,5 +35,10 @@ public class Rabbit extends Herbivore implements Voice, Run {
         super.eat(food);
 
     }
-    
+
+    @Override
+    public String getIdNumber() {
+        return idNumber;
+    }
+
 }

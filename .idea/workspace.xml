@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8250652e-3ae1-4257-b504-3ad94182a24e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lanit_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aviary/Aviary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aviary/AviarySize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Except/WrongFoodException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aviary/Aviary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aviary/Aviary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Carnivorous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Carnivorous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Crocodile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Crocodile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Wolf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="15" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -110,5 +116,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="Except.WrongFoodException" package="Except" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

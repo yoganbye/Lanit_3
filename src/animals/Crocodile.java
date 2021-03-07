@@ -1,9 +1,18 @@
 package animals;
 
+import Aviary.AviarySize;
 import Except.WrongFoodException;
 import food.Food;
 
 public class Crocodile extends Carnivorous implements Swim, Voice, Run {
+
+    public Crocodile() {
+        super();
+    }
+
+    public Crocodile(AviarySize inAviaries) {
+        this.inAviaries = inAviaries;
+    }
 
     @Override
     public String toString(){
@@ -32,5 +41,10 @@ public class Crocodile extends Carnivorous implements Swim, Voice, Run {
         System.out.println("Крокодилу дали " + food);
         super.eat(food);
 
+    }
+
+    @Override
+    public String getIdNumber() {
+        return idNumber;
     }
 }

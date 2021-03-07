@@ -11,7 +11,7 @@ public abstract class Carnivorous extends Animals {
             satiety += food.getValueFood();
 
         } else {
-            System.out.println("Данный тип еды не подходит для животного!");
+            throw new WrongFoodException("Данный тип еды не подходит для животного!");
         }
         
     }
